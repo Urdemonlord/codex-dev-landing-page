@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Urdemonlord** - *Initial work* - [YourGithub](https://github.com/Urdemonlord)
+- **Codex Dev** - *Initial work* - [Urdemonlord](https://github.com/Urdemonlord)
 
 ## 🙏 Acknowledgments
 
